@@ -1,6 +1,6 @@
 ![Au2Bl banner github](https://github.com/user-attachments/assets/c43726a1-5a7f-4eb3-bfc4-b1c3558c395a)
 
-⚠️ IMPORTANT! Download au2bl.zip from Realease panel on the right ➔ ➔ ➔ (Audio2Blender 0.1)
+⚠️ IMPORTANT! Download au2bl.zip from Realease panel on the right ➔ ➔ ➔ (Audio2Blender 0.1) Latest
 
 Downloading au2bl.zip from the main ⬆︎⬆︎⬆︎ will not work! 
 
