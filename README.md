@@ -14,7 +14,7 @@ In FFT mode, you get a series of values based on the number of bands within a sp
 
 📺 In this video, you’ll find an installation and usage tutorial.
 
-https://www.youtube.com/watch?v=DgZBjrP0kSI
+[https://www.youtube.com/watch?v=DgZBjrP0kSI](https://youtu.be/wJ4_JvRwb6E)
 
 
 In order to install Audio2Blender you need sounddevice, a python library.
