@@ -1,6 +1,8 @@
 ![Au2Bl banner github](https://github.com/user-attachments/assets/c43726a1-5a7f-4eb3-bfc4-b1c3558c395a)
 
-⚠️ IMPORTANT! Download au2bl.zip from Realease (Audio2Blender 0.1). Downloading the zip from the main will not work!
+⚠️ IMPORTANT! Download au2bl.zip from Realease panel on the right ➔ ➔ ➔ (Audio2Blender 0.1)
+
+Downloading au2bl.zip from the main ⬆︎⬆︎⬆︎ will not work! 
 
 Audio2Blender Addon allows you to sample any audio source on your computer and send the data in real time to Blender Geometry Nodes.
 
