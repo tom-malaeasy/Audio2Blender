@@ -17,7 +17,7 @@ along with Audio2Blender. If not, see <https://www.gnu.org/licenses/>.
 
 bl_info = {
     "name": "Audio2Blender",
-    "author": "Tom Mala Easy",  # Replace with your signature
+    "author": "Tom Mala Easy",
     "version": "0.0.1",
     "blender": (2, 80, 0),
     "location": "View3D > Sidebar > Audio2Bl",
