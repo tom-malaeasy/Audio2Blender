@@ -34,6 +34,4 @@ Audio2Blender Addon It's a tool I created for myself. I hope it can be useful to
 
 I'd love to hear about your experience and suggestions, please share your feedback in the YouTube comments!
 
-If you like this software, feel free to support my research
-
-paypal.me/tommasomalaisi
+If you like this software, feel free to support my research https://ko-fi.com/tom_mala_easy
